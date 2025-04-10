@@ -56,8 +56,8 @@ pip (Python package manager)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-code-visualizer.git
-cd python-code-visualizer
+git clone https://github.com/Ns81000/py_visualer.git
+cd py_visualer
 ```
 
 2. Set up a virtual environment:
